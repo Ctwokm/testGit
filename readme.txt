@@ -16,3 +16,4 @@ dev上一个未完成的任务，修复bug需要暂存，等bug修复来再来�
  让远程分支超前，好测试rebase
 本地commit一次
 本地commit二次
+本地commit三次，就当这次时推送，其他小伙伴冲突，我pull解决冲突的
